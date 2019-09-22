@@ -1,0 +1,50 @@
+key.oxygen_groups.groupMenu=Ouvrir le menu Groupe
+
+oxygen_groups.gui.interaction.inviteToGroup=Inviter au Groupe
+
+oxygen_groups.context.inviteToGroup=Inviter au Groupe
+
+oxygen_groups.request.groupInvite=%s ivous a invité dans le groupe.
+oxygen_groups.request.readinessCheck=Vérification de la préparation du groupe. Etes-vous prêt?
+oxygen_groups.request.kickPlayer=Kick du joueur %s du groupe?
+
+oxygen_groups.gui.inviteButton=Inviter
+oxygen_groups.gui.leaveButton=Quitter
+oxygen_groups.gui.checkButton=Verifier
+
+oxygen_groups.gui.groupMenu=Groupe
+
+oxygen_groups.gui.group.setting.acceptInvitations=Accepter les invitations automatiquement
+oxygen_groups.gui.group.setting.hideOverlay=Cacher l'overlay de Groupe
+
+oxygen_groups.gui.action.kick=Kick
+oxygen_groups.gui.action.promoteToLeader=Choisir un Leader
+
+oxygen_groups.gui.autoAccept=Accepter les Invitations
+oxygen_groups.gui.invitePlayerCallback=Inviter un joueur
+oxygen_groups.gui.invitePlayerCallback.request=Invite un joueur au groupe.
+oxygen_groups.gui.leaveGroupCallback=Quitter le Groupe
+oxygen_groups.gui.leaveGroupCallback.request=Etes-vous sûr?
+oxygen_groups.gui.readinessCheckCallback=Vérification de préparation
+oxygen_groups.gui.readinessCheckCallback.request=Commencer la vérification de préparation?
+oxygen_groups.gui.promoteToLeaderCallback=Changer le Leader
+oxygen_groups.gui.promoteToLeaderCallback.request=Le Joueur %s va être promu leader.
+oxygen_groups.gui.kickPlayerCallback=Kick le Joueur
+oxygen_groups.gui.kickPlayerCallback.request=Commencer à voter pour kick le joueur %s?
+
+oxygen_groups.message.groupRequest.sender.accepted=Your group request accepted.
+oxygen_groups.message.groupRequest.target.accepted=You accepted group request.
+oxygen_groups.message.groupRequest.sender.rejected=Your group request rejected.
+oxygen_groups.message.groupRequest.target.rejected=You rejected group request.
+oxygen_groups.message.readinessCheck.started=Group readiness check started.
+oxygen_groups.message.readinessCheck.ready=Group ready.
+oxygen_groups.message.readinessCheck.notReady=Group not ready.
+oxygen_groups.message.playerKickVoting.started=Started voting to kick player %s from group.
+oxygen_groups.message.playerKickVoting.kicked=Player %s kicked.
+oxygen_groups.message.playerKickVoting.notKicked=Player %s not kicked.
+
+oxygen_groups.groupMode.squad=Squad
+oxygen_groups.groupMode.raid=Raid
+oxygen_groups.groupMode.party=Party
+
+oxygen_groups.command.dataReset=<oxygen: groups> client data reset.
